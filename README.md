@@ -22,13 +22,13 @@ This project analyzes airline-related tweets to extract insights using NLP techn
 
 ## 📊 Sample Visuals
 ### Sentiment Distribution
-![Sentiment Distribution](../mnt/data/sentiment_pie_chart.png)
+![Sentiment Distribution](images/sentiment_pie_chart.png)
 
 ### Topic Clusters
-![Topic Clusters](../mnt/data/topic_clusters.png)
+![Topic Clusters](images/topic_clusters.png)
 
 ### Trend Analysis
-![Trend Analysis](../mnt/data/trend_chart.png)
+![Trend Analysis](images/trend_chart.png)
 
 ## 💡 Key Insights
 - **Positive Sentiment Trends:** Customers praised efficient service and staff helpfulness.
