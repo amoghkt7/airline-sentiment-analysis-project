@@ -4,10 +4,13 @@
 This project analyzes airline-related tweets to extract insights using NLP techniques like Transformers, PyTorch, and BERTopic. The interactive dashboard offers sentiment trends, topic analysis, and actionable insights for businesses.
 
 ## 🚀 Features
-- **Sentiment Analysis:** Visualizes positive, neutral, and negative sentiment trends.
-- **Topic Insights:** Identifies key discussion themes and clusters using BERTopic.
-- **Trend Analysis:** Tracks sentiment changes over time to identify patterns.
-- **Combined Insights:** Provides actionable recommendations by correlating sentiment with topics.
+Sentiment Analysis: Classifies tweets into positive, neutral, or negative sentiments.
+
+Topic Modeling: Identifies dominant themes in customer feedback using BERTopic.
+
+Interactive Visualizations: Presents insights via Streamlit for better user engagement.
+
+Trend Analysis: Tracks sentiment changes over time.
 
 
 ## 🖥️ Setup Instructions
@@ -30,13 +33,31 @@ This project analyzes airline-related tweets to extract insights using NLP techn
 ### Trend Analysis
 ![Trend Analysis](images/trend_chart.png)
 
-## 💡 Key Insights
-- **Positive Sentiment Trends:** Customers praised efficient service and staff helpfulness.
-- **Negative Sentiment Trends:** Complaints spiked during delays and customer support issues.
-- **Emerging Topics:** "Service Quality" and "Customer Support" showed increasing mentions, signaling areas for improvement.
 
-## 🤖 Technologies Used
-- **Python** (Pandas, PyTorch, Transformers)
-- **Streamlit** (Interactive Dashboard)
-- **BERTopic** (Topic Modeling)
+
+📊 Results & Insights
+
+Key Observations
+
+Topic 0: Common issues around lost baggage and luggage complaints.
+
+Topic 7: Frequent mentions of seat upgrades and class preferences.
+
+Actionable Insight: Airlines can prioritize improving baggage handling services and enhancing seating comfort to improve customer satisfaction.
+
+🧰 Technologies Used
+
+Python
+
+BERTopic
+
+PyTorch
+
+Streamlit
+
+Pandas
+
+Matplotlib / Seaborn
+
+
 
