@@ -1,4 +1,4 @@
-# sentiment-analysis-project
+# airline-sentiment-analysis-project
 
 # 🚀 Sentiment Analysis & Topic Modeling on Social Media Data
 This project analyzes airline-related tweets to extract insights using NLP techniques like Transformers, PyTorch, and BERTopic. The interactive dashboard offers sentiment trends, topic analysis, and actionable insights for businesses.
