@@ -35,7 +35,7 @@ Trend Analysis: Tracks sentiment changes over time.
 
 
 
-📊 Results & Insights
+## 📊 Results & Insights
 
 Key Observations
 
@@ -45,7 +45,7 @@ Topic 7: Frequent mentions of seat upgrades and class preferences.
 
 Actionable Insight: Airlines can prioritize improving baggage handling services and enhancing seating comfort to improve customer satisfaction.
 
-🧰 Technologies Used
+## 🧰 Technologies Used
 
 Python
 
